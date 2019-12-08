@@ -1,0 +1,3 @@
+- - existing
+- - NativeMethodsMixin
+- [ ReactFabricGlobalResponderHandler, ReactNativeBridgeEventPlugin, ReactNativeComponent, ReactNativeEventPluginOrder, ReactNativeGlobalResponderHandler ]
