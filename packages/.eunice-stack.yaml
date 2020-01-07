@@ -1,10 +1,14 @@
 - - existing
-- - react-devtools
-- - react-devtools-shell
-- - react-devtools-core
-- - react-devtools-inline
-- - react-devtools-extensions
-- [ react-art, react-devtools-shared, react-interactions, react-refresh ]
+- - id: react-devtools-group
+    dependencyPermeable: true
+    items:
+      - - react-devtools
+      - - react-devtools-shell
+      - - react-devtools-core
+      - - react-devtools-inline
+      - - react-devtools-extensions
+      - - react-devtools-shared
+- [ react-art, react-interactions, react-refresh ]
 - - react-test-renderer
 - [ react-dom, react-native-renderer, react-noop-renderer ]
 - [ legacy-events, react-reconciler ]
