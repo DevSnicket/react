@@ -2,10 +2,8 @@
 - - id: react-devtools-group
     dependencyPermeable: true
     items:
-      - - react-devtools
-      - - react-devtools-shell
-      - - react-devtools-core
-      - - react-devtools-inline
+      - [ react-devtools, react-devtools-shell ]
+      - [ react-devtools-core, react-devtools-inline ]
       - - react-devtools-extensions
       - - react-devtools-shared
 - [ react-art, react-interactions, react-refresh ]
