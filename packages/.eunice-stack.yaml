@@ -9,6 +9,6 @@
 - [ react-art, react-interactions, react-refresh ]
 - - react-test-renderer
 - [ react-dom, react-native-renderer, react-noop-renderer ]
-- [ legacy-events, react-reconciler ]
+- [ legacy-events, react-flight, react-reconciler, react-server ]
 - [ create-subscription, jest-mock-scheduler, jest-react, react-cache, react-is, react-stream, use-subscription ]
 - [ babel-plugin-react-jsx, eslint-plugin-react-hooks, react, react-debug-tools, scheduler, shared ]
