@@ -1,4 +1,9 @@
+- - ReactFiberWorkLoop
+- [ ReactFiberCompleteWork, ReactFiberThrow, ReactFiberUnwindWork ]
+- [ ReactFiberBeginWork, ReactFiberCommitWork ]
+- [ ReactChildFiber, ReactFiberClassComponent ]
+- [ ReactFiberHooks, ReactFiberHydrationContext ]
+- - ReactFiber
+- - ReactFiberHotReloading
+- [ ReactFiberNewContext, ReactFiberReconciler ]
 - - existing
-- - ReactFiberReconciler
-- [ ReactChildFiber, ReactFiberSuspenseContext, ReactFiberWorkLoop ]
-- [ ReactFiberExpirationTime, ReactFiberHostConfig, ReactHookEffectTags, ReactTypeOfMode, SchedulerWithReactIntegration ]

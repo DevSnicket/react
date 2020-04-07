@@ -1,3 +1,6 @@
-- - existing
+
+- [ index, ProfilerStore ]
+- - ProfilingCache
 - - views
-- [ cache, store ]
+- - store
+- - existing
