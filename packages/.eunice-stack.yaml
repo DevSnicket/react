@@ -6,7 +6,6 @@
       - [ react-devtools-core, react-devtools-inline ]
       - - react-devtools-extensions
       - - react-devtools-shared
-- [ react-art, react-interactions, react-refresh ]
 - - react-test-renderer
 - [ react-dom, react-native-renderer, react-noop-renderer ]
 - [ legacy-events, react-flight, react-reconciler, react-server ]
